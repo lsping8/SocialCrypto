@@ -1,0 +1,6 @@
+framework module Pods_asset {
+  umbrella header "Pods-asset-umbrella.h"
+
+  export *
+  module * { export * }
+}
